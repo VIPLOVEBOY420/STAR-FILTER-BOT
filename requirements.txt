@@ -11,6 +11,8 @@ shortzy
 datetime 
 pytz 
 aiohttp
+imdbpy==2021.4.18
+asyncio==3.4.3
 
 #---master---# 
 #Telethroid==0.0.10 
